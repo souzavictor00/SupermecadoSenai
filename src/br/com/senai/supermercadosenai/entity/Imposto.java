@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 public class Imposto {
 	
-	private Integer id;
+	private Integer id;//Comentário
 	
 	private BigDecimal valor;
 
